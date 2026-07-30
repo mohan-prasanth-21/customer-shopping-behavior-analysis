@@ -104,12 +104,12 @@ Interactive executive dashboard with filters across category, gender, location, 
 
 ## 🔗 Project Links
 
-- **Kaggle Dataset:** [link]
-- **Kaggle Notebook:** [link]
+- **Kaggle Dataset:** [https://www.kaggle.com/datasets/mohanprasanth21/customer-shopping-behavior-cleaned-dataset]
+- **Kaggle Notebook:** [https://www.kaggle.com/code/mohanprasanth21/customer-shopping-behavior-analysis]
 ---
 
 ## 👤 About
 
 Built as an independent project to practice a full analytics workflow the way it's done for a real retail business — clean the data, ask sharp business questions, and present findings a non-technical stakeholder can act on.
 
-**Connect:** [LinkedIn](#) · [Kaggle Profile](#)
+**Connect:** [https://www.linkedin.com/in/mohanprasanth07/](#) · [https://www.kaggle.com/mohanprasanth21](#)
