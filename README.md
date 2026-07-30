@@ -42,9 +42,6 @@ Power BI — interactive executive dashboard
 
 **Result:** 3,900 rows, 19 columns, 0 missing values.
 
-📓 Full notebook: [Kaggle Notebook](#) *(add link)*
-📊 Cleaned dataset: [Kaggle Dataset](#) *(add link)*
-
 ---
 
 ## 🗃️ Business Analysis (SQL)
