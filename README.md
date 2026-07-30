@@ -70,10 +70,8 @@ Power BI — interactive executive dashboard
 
 Interactive executive dashboard with filters across category, gender, location, discount, size, payment, season, and shipping type — built so stakeholders can self-serve insights without a new query for every question.
 
-![Dashboard Preview](./dashboard_preview.png)
-*(replace with your actual dashboard screenshot)*
+![Dashboard Preview](./Customer_behavior_analysis_dashboard.png)
 
-🔗 [View Interactive Dashboard](#) *(add Power BI publish link, if available)*
 
 **Key panels:**
 - KPI strip — customers, total revenue, avg order value, avg rating
@@ -98,7 +96,7 @@ Interactive executive dashboard with filters across category, gender, location, 
 ```
 ├── customer_behavior.sql              # All 10 SQL business questions
 ├── customer_shopping_behavior_cleaned.csv   # Cleaned dataset
-├── dashboard_preview.png              # Power BI dashboard screenshot
+├── Customer_behavior_analysis_dashboard.png              # Power BI dashboard screenshot
 └── README.md
 ```
 
@@ -108,8 +106,6 @@ Interactive executive dashboard with filters across category, gender, location, 
 
 - **Kaggle Dataset:** [link]
 - **Kaggle Notebook:** [link]
-- **Power BI Dashboard:** [link]
-
 ---
 
 ## 👤 About
